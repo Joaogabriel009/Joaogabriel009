@@ -3,8 +3,9 @@
 - Meu nome é João Gabriel
   
 - Estou estudando o alura
-  
-  - email:00001133967668sp@al.educacao.sp.gov.br
+
+  - e-mail:
+  00001133967668sp@al.educacao.sp.gov.br
 
 - ig:@joaogs.09
   

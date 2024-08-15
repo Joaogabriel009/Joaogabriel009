@@ -4,8 +4,8 @@
 - 
 - Estou estudando o alura
 - 
-  email:00001133967668sp@al.educacao.sp.gov.br
+  -email:00001133967668sp@al.educacao.sp.gov.br
 
-ig:@joaogs.09
+-ig:@joaogs.09
   
-📞:(19) 98175-9390
+-📞:(19) 98175-9390
